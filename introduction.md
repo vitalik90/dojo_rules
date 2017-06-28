@@ -1,1 +1,3 @@
-rebase
+*Git
+*JavaScript
+*Ruby
